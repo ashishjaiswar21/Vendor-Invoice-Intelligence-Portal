@@ -101,8 +101,8 @@ In Project/
 ## 1. Clone the repository
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/REPO_NAME.git](https://github.com/YOUR_USERNAME/REPO_NAME.git)
-cd REPO_NAME
+git clone [https://github.com/ashishjaiswar21/Vendor-Invoice-Intelligence-Portal.git](https://github.com/ashishjaiswar21/Vendor-Invoice-Intelligence-Portal.git)
+cd Vendor-Invoice-Intelligence-Portal
 ```
 
 ## 2. Install dependencies
