@@ -2,6 +2,10 @@
 # 📦 Vendor Invoice Intelligence Portal
 ### AI-Driven Freight Cost Prediction & Invoice Risk Flagging
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://vendor-invoice-intelligence-system.streamlit.app)
+
+**🔗 Live Demo:** [https://vendor-invoice-intelligence-system.streamlit.app](https://vendor-invoice-intelligence-system.streamlit.app)
+
 Organizations process thousands of invoices every day, and manual verification is slow, error-prone, and costly. This project is a Machine Learning-powered internal analytics portal designed for Finance and Supply Chain teams. It automates the verification of vendor invoices and forecasts logistics costs, effectively reducing manual workload and financial leakage.
 
 ## 🚀 Project Overview & Business Impact
